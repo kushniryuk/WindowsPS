@@ -1,0 +1,3 @@
+Заблокувати екран з cmd. Працює на локальному та РДП сеансі.
+%SystemRoot%\system32\rundll32.exe USER32.DLL LockWorkStation
+
